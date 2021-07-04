@@ -1,8 +1,8 @@
 class Tsesh < Formula
     desc "A command-line tool for managing sessions in tmux"
     homepage "https://github.com/tommyjl/tmux-sessions"
-    url "https://github.com/tommyjl/tmux-sessions/archive/refs/tags/0.1.1.tar.gz"
-    sha256 "3953f4f181414b90b46333e53a3d1a7372239454152e84e57a34f048189596e1"
+    url "https://github.com/tommyjl/tmux-sessions/archive/refs/tags/0.1.2.tar.gz"
+    sha256 "cb4a9c36501cae1e68b5bb19da3718104de1a7f175f2aca4fc97136212b0439c"
     license "MIT"
     head "https://github.com/tommyjl/tmux-sessions.git"
 
